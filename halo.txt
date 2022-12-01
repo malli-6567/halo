@@ -1,0 +1,7 @@
+
+git init
+git add .md
+git commit -m " halo first commit"
+git branch -M main
+git remote add origin https://github.com/malli-6567/halo.git
+git push -u origin main
